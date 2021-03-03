@@ -1,0 +1,24 @@
+{
+  "name": "server-status-all",
+  "version": "0.0.1",
+  "description": "Permet de voir les status de serveur minecraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llexto/server-status-all.git"
+  },
+  "keywords": [
+    "ping",
+    "ping-server",
+    "server-status-all"
+  ],
+  "author": "llexto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llexto/server-status-all/issues"
+  },
+  "homepage": "https://github.com/llexto/server-status-all#readme"
+}
